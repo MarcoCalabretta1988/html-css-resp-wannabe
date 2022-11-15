@@ -132,9 +132,9 @@ img {
 
 
 
- /*  RESPONSIVE 768PX*/
+ /*  RESPONSIVE 1160PX*/
 
- @media screen and (max-width: 768px){
+ @media screen and (max-width: 1160px){
     
     .container {
         width: 100vw;
@@ -153,7 +153,6 @@ img {
     
    .row .col {
         width: 100%;
-        /* padding: 20px; */
     }
     
 
